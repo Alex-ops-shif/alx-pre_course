@@ -1,1 +1,1 @@
-My first read me
+how to be upto date in git
